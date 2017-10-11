@@ -21,13 +21,13 @@ tweetbot.read(book)
 
 # ALL YOUR SECRET STUFF!
 # Consumer Key (API Key)
-cons_key = 'WL4rt04fVWkXBQHSabom9QICx'
+cons_key = ''
 # Consumer Secret (API Secret)
-cons_secret = 'KuXewEePTksw8wCwPp7AfuwHWDnSaXlhL3ioJX5EbP0JQcBA0N'
+cons_secret = ''
 # Access Token
-access_token = '867263554877091842-EteMwBZGu12k3aSTegeVq4fPv1uO8kO'
+access_token = ''
 # Access Token Secret
-access_token_secret = 'YbnksQHXfhjupGly9FNTH5Zww4kvNoGX729c3wYlI3bMm'
+access_token_secret = ''
 	
 
 # Log in to Twitter
